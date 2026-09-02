@@ -4,7 +4,7 @@ I'm **Rifky** a student at **Airlangga IT Vocational School**, based in **Samari
 
 If an idea pops into my head, chances are I'll build it and ship it.
 
-If you want to learn how I do it, **[My Portfolio](https://link.com)**!
+If you want to learn how I do it, **[My Portfolio](https://portofolio-smkti.infinityfree.io)**!
 
 Here's a list of my tech stack and skills:
 
